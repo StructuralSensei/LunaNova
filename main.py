@@ -1,3 +1,8 @@
+# LunaNova Portal - Local Network File Transmission Engine
+# Copyright (C) 2026  [Your Name/Username]
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation.
 import os
 import uvicorn
 import socket
